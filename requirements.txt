@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+gender-guesser
+voila
+jupyter
+scikit-learn
+wordcloud
+gensim
