@@ -67,17 +67,17 @@ This project explores the intersection of **gender**, **religion**, and **econom
 - Early observations suggest women more often write about spirituality and family.
 
 **Male author themes**
-      ![Trends](\Outputs\charts\Male_Authors.png)
+      ![Trends](/Outputs/charts/Male_Authors.png)
 
 **Female author themes**
-    ![Trends](\Outputs\charts\female_Authors.png)
+    ![Trends](/Outputs/charts/female_Authors.png)
 
 
 
 ### 📌 3. Temporal Trends
 - **Female authorship grew gradually** over the decades.
 - Notable increases post-1970s may correspond with second-wave feminism.
-   ![Trends](\Outputs\charts\trends.png)
+   ![Trends](/Outputs/charts/trends.png)
 
 
 ### 📌 4. Religious Tradition Breakdown
